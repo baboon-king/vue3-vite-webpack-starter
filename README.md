@@ -22,7 +22,7 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup use vite
-
+https://github.com/vuejs/create-vue
 ```sh
 npm install
 ```
@@ -48,6 +48,8 @@ npm run lint
 ---
 
 ## Project setup use @vue/cli --webpack
+
+https://next.cli.vuejs.org/zh/
 
 ```
 npm install
