@@ -1,5 +1,5 @@
 {
-  "name": "vue3-vite-starter",
+  "name": "vue3-vite-webpack-starter",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
